@@ -1,0 +1,90 @@
+{
+    "Players":
+    [
+        {
+            "firstName": "Yuji",
+            "lastName": "Nishida",
+            "Height": "6'1",
+            "Position": "Opposite",
+            "Age": "23",
+            "club": "JTEKT Stings"
+        },
+        {
+            "firstName": "Yuki",
+            "lastName": "Ishikawa",
+            "Height": "6'4",
+            "Position": "Outside Hitter",
+            "Age": "27",
+            "club": "Allianz Milano"
+        },
+        {
+            "firstName": "Akihiro",
+            "lastName": "Yamauchi",
+            "Height": "6'8",
+            "Position": "Middle Blocker",
+            "Age": "29",
+            "club": "Aichi Gakuin University"
+        },
+        {
+            "firstName": "Tomohiro",
+            "lastName": "Yamamoto",
+            "Height": "5'7",
+            "Position": "Libero",
+            "Age": "28",
+            "club": "Osaka Blazers Sakai"
+        },
+        {
+            "firstName": "Masahiro",
+            "lastName": "Sekita",
+            "Height": "5'9",
+            "Position": "Setter",
+            "Age": "29",
+            "club": "JTEKT Stings"
+        },
+        {
+            "firstName": "Ran",
+            "lastName": "Takahashi",
+            "Height": "6'2",
+            "Position": "Outside Hitter",
+            "Age": "21",
+            "club": "Pallavolo Padova"
+        }
+        
+    ],
+
+
+    "clip":
+    [
+{
+    "playerName": "Yuji Nishida",
+    "type": "spike",
+    "team": "France"
+},
+{
+    "playerName": "Yuki Ishikawa",
+    "type": "spike",
+    "team": "Argentina"
+},
+{
+    "playerName": "Akihiro Yamauchi",
+    "type": "block",
+    "team": "Brazil"
+},
+{
+    "playerName": "Tomohiro Yamamoto",
+    "type": "diving save",
+    "team": "Italy"
+},
+{
+    "playerName": "Masahiro Sekita",
+    "type": "setter dump",
+    "team": "Italy"
+},
+{
+    "playerName": "Ran Takahashi",
+    "type": "spike",
+    "team": "Germany"
+}
+
+    ]
+}
